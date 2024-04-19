@@ -1,5 +1,5 @@
 <img src="images/horizontalDivider.gif" alt="dfs">
-<h1 align="center"><b>Hola <img src="images/saludo.gif" width="35" alt="Saludo">, Soy Miguel</b></h1>
+<h1 align="center"><b>Hola <img src="images/saludo.gif" width="35" alt="Saludo">, soy Miguel</b></h1>
 <img align="left" src = "images/AboutMe.gif" width = 50px height=50px alt="Sobre Mi">
 <h2 align="left" font-weight="bold">Sobre Mi</h2> <br>
 
